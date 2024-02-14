@@ -1,0 +1,20 @@
+- access key - 
+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
+
+npm install -g create-react-app
+npx create-react-app my-app
+
+Powershell 관리자 권한 실행
+ExecutionPolicy
+Set-ExecutionPolicy RemoteSigned
+
+VSCODE
+// 현재 폴더에 react app 설치
+create-react-app .
+
+어플리케이션 배포
+npm install -g serve
+npx serve -s build  
+
+앱 실행
+npm run start
